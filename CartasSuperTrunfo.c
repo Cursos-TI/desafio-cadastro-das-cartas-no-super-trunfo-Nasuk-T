@@ -4,9 +4,20 @@
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 // Siga os comentários para implementar cada parte do desafio.
-//Teste larissa
+//Teste Gleidson
 
 int main() {
+    
+    Printf("Desafio Super Trufo Países");
+    
+    char nome[20], nomepais[20];
+    int codigocidade;
+    double população;
+    double área;
+    double PIB;
+    int pontosturisticos;
+
+    
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
